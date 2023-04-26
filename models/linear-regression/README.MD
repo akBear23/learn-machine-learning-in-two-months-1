@@ -1,3 +1,4 @@
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 ### 5. Bài toán hồi quy (Regression)
 ----
 
